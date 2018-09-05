@@ -1,3 +1,26 @@
+*.slo
+*.sln
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.log
+*.pdb
+Intermediate/*
+Saved/*
+
 # Visual Studio 2015 user specific files
 .vs/
 
